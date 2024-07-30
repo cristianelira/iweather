@@ -15,7 +15,7 @@ export default function App() {
     <SafeAreaProvider style={{ flex: 1 }}>
       <StatusBar
         translucent
-        //barStyle="light-content"
+        barStyle="light-content"
         backgroundColor="transparent"
       />
 
